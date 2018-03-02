@@ -9,9 +9,6 @@ There are just three types of nodes in Terraform graph:
   Resource meta-node
 
 
-
-example:
-
 you need to create a VPC with a public subnet. so, to create a VPC, the aws provider must exist first and to create a public subnet the VPC must exist"dependency". 
 
 
