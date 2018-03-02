@@ -18,8 +18,8 @@ you need to create a VPC with a public subnet. so, to create a VPC, the aws prov
 
 to see the graph
 
-# terraform graph %result will be on your terminal "may be not easy to read. So, download the grahize packeg based on your system from here https://graphviz.gitlab.io/download/
-
+# terraform graph 
+%result will be on your terminal "may be not easy to read. So, download the grahize packeg based on your system from here https://graphviz.gitlab.io/download/
 
 
 # terraform graph | dot -Tpng > SUbnet.png
